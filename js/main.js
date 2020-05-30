@@ -766,8 +766,10 @@ let onInit = function() {
     });
     if (Util.is_mobile) {
         Module.set_marker_clickable_radius(16);
+        Module.set_passive_marker_click_drag_view(tru);
     } else {
-        Module.set_marker_clickable_radius(9);
+        Module.set_marker_clickable_radius(10);
+        Module.set_passive_marker_click_drag_view(false);
     }
 
     $('.example').click(function(){
