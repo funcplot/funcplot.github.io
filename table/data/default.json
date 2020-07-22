@@ -311,9 +311,11 @@
         "HS05",
         "BSS03",
         "ŠS05",
-        "(Unpublished work of Aaronson, Ben-David, Kothari, Tal)"
+        "ABK+20"
       ],
-      "url": []
+      "url": [
+        "https://eccc.weizmann.ac.il/report/2020/066/"
+      ]
     },
     {
       "m1": "D",
@@ -323,11 +325,12 @@
       "attrib": [
         "Mid05",
         "Hua19",
-        "(Unpublished work of Aaronson, Ben-David, Kothari, Tal)"
+        "ABK+20"
       ],
       "url": [
         "https://arxiv.org/abs/quant-ph/0501142",
-        "https://arxiv.org/abs/1907.00847"
+        "https://arxiv.org/abs/1907.00847",
+        "https://eccc.weizmann.ac.il/report/2020/066/"
       ]
     }
   ],
@@ -1258,10 +1261,10 @@
       }
     },
     {
-      "name": "[ABDK16]<sub>2</sub>",
+      "name": "[ABK16]<sub>2</sub>",
       "desc": "Cheat sheet version of: forrelation composed with and-or",
       "attrib": [
-        "ABDK16",
+        "ABK16",
         "BD15"
       ],
       "url": [
@@ -1318,10 +1321,10 @@
       }
     },
     {
-      "name": "[ABDK16]<sub>3</sub>",
+      "name": "[ABK16]<sub>3</sub>",
       "desc": "BKK: Block-k-sum composed with k-sum",
       "attrib": [
-        "ABDK16"
+        "ABK16"
       ],
       "url": [
         "https://arxiv.org/abs/1511.01937"
@@ -1376,10 +1379,10 @@
       }
     },
     {
-      "name": "[ABDK16]<sub>4</sub>",
+      "name": "[ABK16]<sub>4</sub>",
       "desc": "Cheat-sheet version of BKK (not normalized to n)",
       "attrib": [
-        "ABDK16"
+        "ABK16"
       ],
       "url": [
         "https://arxiv.org/abs/1511.01937"
@@ -1434,10 +1437,10 @@
       }
     },
     {
-      "name": "[ABDK16]<sub>1</sub>",
+      "name": "[ABK16]<sub>1</sub>",
       "desc": "Cheat-sheet version of RecBKK (not normalized to n)",
       "attrib": [
-        "ABDK16"
+        "ABK16"
       ],
       "url": [
         "https://arxiv.org/abs/1511.01937"
